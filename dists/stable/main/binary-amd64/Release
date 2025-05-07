@@ -1,0 +1,5 @@
+Component: main
+Origin: pod
+Label: pod
+Architecture: amd64
+Description: APT repository for the pod Rust tool

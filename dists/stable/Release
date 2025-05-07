@@ -1,0 +1,19 @@
+Origin: pod
+Label: pod
+Codename: stable
+Date: Wed, 07 May 2025 09:40:03 UTC
+Architectures: amd64
+Components: main
+Description: APT repository for the pod Rust tool
+MD5Sum:
+ e86834303152c973db618561140b8e46 422 main/binary-amd64/Packages
+ aaa5033b982143537b2429bf702ecf27 332 main/binary-amd64/Packages.gz
+ c9acbaf60a48a61021b71a2b04a7c493 109 main/binary-amd64/Release
+SHA1:
+ cf08c43d9cd98b13b1772445635397dcbfbd91be 422 main/binary-amd64/Packages
+ 39a369b4e9481b8f041f37d2e6cb5318a78d338e 332 main/binary-amd64/Packages.gz
+ bca797eae863befe33df64494ab59a5c00c08b8c 109 main/binary-amd64/Release
+SHA256:
+ b6f6449ee4becb2977f25de54307682b4dbe8b5d24ba4eb15f89639df5fa16c9 422 main/binary-amd64/Packages
+ e6a9c6cfde94db0d8fbfb790312f5915ed95a443c3d08d754d811fcc8f96ab40 332 main/binary-amd64/Packages.gz
+ 39fec5e9052845d7cb9dd81633ca44253cad15836cebc47f7066ee8fe5fbfd40 109 main/binary-amd64/Release
