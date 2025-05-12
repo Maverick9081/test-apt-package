@@ -3,4 +3,4 @@ Label: pod
 Codename: stable
 Architectures: amd64
 Components: main
-Description: APT repository for the pod Rust tool
+Description: pod apt repo
